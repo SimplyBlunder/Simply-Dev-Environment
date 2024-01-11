@@ -8,15 +8,20 @@
 
 
 
-All of my .files for the most important applications, I would suggest not blindly copying these and using them but feel free to take inspiration!
+All of my .files for the my most important applications, I would suggest not blindly copying these and using them but feel free to take inspiration!
 
-Includes custom configurations for the following
+Includes custom configurations for the following:
 
--Patched DWM / Custom Bar
--Nvim
--Tmux
--ST (terminal)
--ZSH
--Among other system / script .files.
+  -Patched DWM / Custom Bar
+  -Nvim
+  -Tmux
+  -ST (terminal)
+  -ZSH
+  -Among other system / script .files.
+
+//Where I have cloned repos but then modified it in someway for my personal use, you will still discover the original readme's, in the future I may decide
+//to update these readme's and explain where / what I have modified to give you a better understanding. 
+//However, I do intend to maintain this and so if you have cloned any of the configs here for your own use they should work and be getting concurrently updated.
 
 //Video and Pictures to be added!
+
